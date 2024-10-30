@@ -15,6 +15,8 @@
   ---
 This project analyzes car sales data to uncover insights into sales trends, customer preferences, and market performance. The analysis aims to help car dealerships optimize their inventory and marketing strategies.
 
+![CarSales Outlook](https://github.com/user-attachments/assets/514d9d3f-b2b0-42bf-b87e-a2b1f64bec05)
+
 ### Data Sources
 ---
 The primary data used for this analysis is the "carsales.csv" file, containing the detailed information about each sale made by individual car dealership.
