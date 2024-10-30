@@ -65,15 +65,3 @@ These insights can help the company understand customer preferences and regional
 ### Conclusion
 ---
 The dashboard indicates that the company is performing well, especially with SUV and black car sales, and sees seasonal boosts. There’s an opportunity to optimize inventory, target high-performing regions, and capitalize on the demand for mid-range to high-end vehicles. Tailored marketing strategies during peak months, along with a focus on popular models and colors, could drive even greater sales.
-
-
-
-
-  
-
-
-
-
-```
-Dynamic Measure
-```
