@@ -8,6 +8,8 @@
   -  [Data Cleaning/Preparation](#data-cleaning/preparation)
   -  [Exploratory Data Analysis](#exploratory-data-analysis)
   -  [Data Analysis](#data-analysis)
+  -  [Results](#results)
+  -  [Conclusion](#conclusion)
 
   ### Project Overview
   ---
@@ -57,7 +59,13 @@ FROM CARSALES
 SELECT SUM (Annual_Income)
 FROM CARSALES
 ```
-### Results/Findings
+### Results
+---
+These insights can help the company understand customer preferences and regional performance and may guide future strategies, such as inventory management and targeted marketing.
+### Conclusion
+---
+The dashboard indicates that the company is performing well, especially with SUV and black car sales, and sees seasonal boosts. There’s an opportunity to optimize inventory, target high-performing regions, and capitalize on the demand for mid-range to high-end vehicles. Tailored marketing strategies during peak months, along with a focus on popular models and colors, could drive even greater sales.
+
 
 
 
